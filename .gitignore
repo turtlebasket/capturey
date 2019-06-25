@@ -1,0 +1,8 @@
+# Capture Files (contain confidential traffic)
+pcaps/*
+
+# Info
+*.txt
+
+# Configuration files
+capturey.config
